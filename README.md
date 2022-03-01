@@ -1,10 +1,15 @@
-### Hi there, 👋🏽 , I'm Camila MK Piotrowski
+# Hi there, 👋🏽 , I'm Camila MK Piotrowski
 
 - 🔭 A full stack web development student from DCI Careers based in Hamburg.
 - 🌱 Currently learning **Backend JS**
-- 📫 How to reach me: mkp.camila@gmail.com
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I have a graphic design background and can't live without music!
+- 📫 How to reach me: mkp.camila@gmail.com
+
+  <div>
+  <a href="https://www.linkedin.com/in/camila-mkp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mkp.camila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/camilamkp">
@@ -37,8 +42,5 @@
     <img src="https://aleen42.github.io/badges/src/after_effects.svg" target="_blank">
     <img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank">
 </div>
-  <div align="center">
-  <a href="https://www.linkedin.com/in/camila-mkp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mkp.camila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
