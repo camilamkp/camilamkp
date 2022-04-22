@@ -1,6 +1,7 @@
 # Hi there, 👋🏽 , I'm Camila MK Piotrowski
 
 - 🔭 A **full stack web development** student from DCI Careers based in Hamburg.
+- 👩🏽‍💻 MERN STACK
 - 🌱 Currently learning **Backend JS**
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I have a graphic design background and can't live without music!
