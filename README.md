@@ -1,6 +1,6 @@
 # Hi there, 👋🏽 , I'm Camila MK Piotrowski
 
-- 🔭 A **full stack web development** based in Hamburg.
+- 🔭 A **full stack web developer** based in Hamburg.
 - 👩🏽‍💻 MERN STACK
 - 🌱 Currently learning **Backend JS**
 - 😄 Pronouns: she / her
