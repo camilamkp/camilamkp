@@ -2,9 +2,8 @@
 
 - 🔭 A **full stack web developer** based in Hamburg.
 - 👩🏽‍💻 MERN STACK
-- 🌱 Currently learning **Backend JS**
+- 🌱 Currently learning **Python**
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: I have a graphic and web design background and can't live without music!
 
 <div align="left">
 <h3>📫 Let's get in touch:</h3>
