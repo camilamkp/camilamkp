@@ -1,9 +1,12 @@
 # Hi there, 👋🏽 , I'm Camila MK Piotrowski
 
-- 🔭 A **frontend web developer** based in Hamburg.
+- 🔭 A curious **frontend web developer** based in Hamburg.
 - 👩🏽‍💻 MERN STACK
 - 🌱 Currently learning **Python**
+- ⏳ Exploring **Next.js**
 - 😄 Pronouns: she / her
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- ⚡ Fun fact: sci-fi freak
 
 <div align="left">
 <h3>📫 Let's get in touch:</h3>
