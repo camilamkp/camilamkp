@@ -1,4 +1,4 @@
-# Hi there, 👋🏽 , I'm Camila MK Piotrowski
+# Hi there, 👋🏽 , I'm Camila
 
 - 🔭 A curious **frontend web developer** based in Hamburg.
 - 👩🏽‍💻 MERN STACK
