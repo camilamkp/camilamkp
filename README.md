@@ -1,6 +1,6 @@
 # Hi there, 👋🏽 , I'm Camila
 
-- 🔭 A curious **frontend web developer** based in Hamburg.
+- 🔭 A curious mind based in Hamburg.
 - 👩🏽‍💻 MERN STACK
 - 🌱 Currently learning **Python**
 - ⏳ Exploring **Next.js**
