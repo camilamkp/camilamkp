@@ -1,8 +1,8 @@
 # Hi there, 👋🏽 , I'm Camila
 
-- 🔭 A curious mind based in Hamburg.
+- 🔭 A graphic designer with a curious mind from Rio based in Hamburg.
 - 👩🏽‍💻 MERN STACK
-- 🌱 Currently learning **Python**
+- 🌱 Currently learning **NodeJS**
 - ⏳ Exploring **Next.js**
 - 😄 Pronouns: she / her
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
