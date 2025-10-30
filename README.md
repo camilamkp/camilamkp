@@ -1,9 +1,9 @@
 # Hi there, 👋🏽 , I'm Camila
 
 - 🔭 A graphic designer with a curious mind from Rio based in Hamburg.
-- 👩🏽‍💻 MERN STACK
-- 🌱 Currently learning **NodeJS**
-- ⏳ Exploring **Next.js**
+- 👩🏽‍💻 creative&curious mind ● Graphic Design | Video Editing | Content Creation | Mediengestaltung
+- 🌱 Currently learning **MERN STACK**
+- ⏳ Exploring **Adobe Indesign**
 - 😄 Pronouns: she / her
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - ⚡ Fun fact: sci-fi freak
